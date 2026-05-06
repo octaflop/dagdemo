@@ -1,7 +1,5 @@
 import os
 
-import os
-
 from dagster import Definitions
 
 from dagdemo.sltrib import sltrib_assets
