@@ -24,3 +24,6 @@ packages = ["src/dagdemo"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["."]
+
+[tool.dagster]
+module_name = "dagdemo"
