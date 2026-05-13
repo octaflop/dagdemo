@@ -1,0 +1,113 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.6",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "b26853c1c9556745e2a3ae2755c898ce",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "bdac40c8ec007612dded7e9b0af64c39",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "d74ae2facbabb9cd36cad8992c9c79e6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "wknB",
+      "code_hash": "070db9f187783b273ca2cfd7bdbb9e9a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>dict_values([&lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x1108cd260&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x1108cc9e0&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x1107d5d50&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x1107d5c50&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x11083b6b0&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x11083b4d0&gt;])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "8a4f5a0fcaebd28a417aae8b5a7ec463",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: nowrap;gap: 2rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"dagster-assets-enrichment-legislation-sltrib\">Dagster Assets  <code>enrichment</code> <code>legislation</code> <code>sltrib</code></h2></span><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='bkHC-0' random-id='d26d457c-7166-13fb-cab2-62d612664388'><marimo-dropdown data-initial-value='[]' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Asset&lt;/span&gt;&lt;/span&gt;&quot;' data-options='[&quot;ai_enriched_articles&quot;,&quot;sltrib_articles&quot;,&quot;sltrib_feed_xml&quot;,&quot;sltrib_full_content&quot;,&quot;ut_bills&quot;,&quot;ut_legislators&quot;]' data-allow-select-none='true' data-searchable='false' data-full-width='true'></marimo-dropdown></marimo-ui-element><marimo-ui-element object-id='bkHC-1' random-id='7923df79-74a0-4798-7f14-08018939adab'><marimo-button data-initial-value='0' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Materialize&lt;/span&gt;&lt;/span&gt;&quot;' data-kind='&quot;success&quot;' data-disabled='false' data-full-width='false'></marimo-button></marimo-ui-element></div></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "fc7e33737bef7f5c376a5e931be7c3e6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "a8ed45e88eb1236be91f0971fdadcc42",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "ancestor-stopped",
+          "evalue": "This cell wasn't run because an ancestor was stopped with `mo.stop`: ",
+          "traceback": []
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "ad7d7463bc8c7243a050a8efb0b4deea",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "ancestor-stopped",
+          "evalue": "This cell wasn't run because an ancestor was stopped with `mo.stop`: ",
+          "traceback": []
+        }
+      ],
+      "console": []
+    }
+  ]
+}
