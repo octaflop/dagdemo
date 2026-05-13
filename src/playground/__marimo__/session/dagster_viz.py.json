@@ -45,26 +45,13 @@
       "console": []
     },
     {
-      "id": "wknB",
-      "code_hash": "070db9f187783b273ca2cfd7bdbb9e9a",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>dict_values([&lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x1108cd260&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x1108cc9e0&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x1107d5d50&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x1107d5c50&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x11083b6b0&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x11083b4d0&gt;])</pre>"
-          }
-        }
-      ],
-      "console": []
-    },
-    {
       "id": "bkHC",
-      "code_hash": "8a4f5a0fcaebd28a417aae8b5a7ec463",
+      "code_hash": "a4756ed941f28e96c9e49bb0551237f4",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: nowrap;gap: 2rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"dagster-assets-enrichment-legislation-sltrib\">Dagster Assets  <code>enrichment</code> <code>legislation</code> <code>sltrib</code></h2></span><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='bkHC-0' random-id='d26d457c-7166-13fb-cab2-62d612664388'><marimo-dropdown data-initial-value='[]' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Asset&lt;/span&gt;&lt;/span&gt;&quot;' data-options='[&quot;ai_enriched_articles&quot;,&quot;sltrib_articles&quot;,&quot;sltrib_feed_xml&quot;,&quot;sltrib_full_content&quot;,&quot;ut_bills&quot;,&quot;ut_legislators&quot;]' data-allow-select-none='true' data-searchable='false' data-full-width='true'></marimo-dropdown></marimo-ui-element><marimo-ui-element object-id='bkHC-1' random-id='7923df79-74a0-4798-7f14-08018939adab'><marimo-button data-initial-value='0' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Materialize&lt;/span&gt;&lt;/span&gt;&quot;' data-kind='&quot;success&quot;' data-disabled='false' data-full-width='false'></marimo-button></marimo-ui-element></div></div>"
+            "text/plain": ""
           }
         }
       ],
@@ -72,7 +59,7 @@
     },
     {
       "id": "lEQa",
-      "code_hash": "fc7e33737bef7f5c376a5e931be7c3e6",
+      "code_hash": "a18fc26da875aca977988673c8d455fb",
       "outputs": [
         {
           "type": "data",
@@ -85,26 +72,78 @@
     },
     {
       "id": "PKri",
-      "code_hash": "a8ed45e88eb1236be91f0971fdadcc42",
+      "code_hash": "5bf5e64d1f59c51309502e5a2dd08390",
       "outputs": [
         {
-          "type": "error",
-          "ename": "ancestor-stopped",
-          "evalue": "This cell wasn't run because an ancestor was stopped with `mo.stop`: ",
-          "traceback": []
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
         }
       ],
       "console": []
     },
     {
       "id": "Xref",
-      "code_hash": "ad7d7463bc8c7243a050a8efb0b4deea",
+      "code_hash": "070db9f187783b273ca2cfd7bdbb9e9a",
       "outputs": [
         {
-          "type": "error",
-          "ename": "ancestor-stopped",
-          "evalue": "This cell wasn't run because an ancestor was stopped with `mo.stop`: ",
-          "traceback": []
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>dict_values([&lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x10a484380&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x10a484490&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x10a3e0750&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x10a3e0850&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x10a3d86e0&gt;, &lt;dagster._core.definitions.assets.graph.asset_graph.AssetNode object at 0x10a3d87d0&gt;])</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "8a4f5a0fcaebd28a417aae8b5a7ec463",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: row;justify-content: space-between;align-items: normal;flex-wrap: nowrap;gap: 2rem'><span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"dagster-assets-enrichment-legislation-sltrib\">Dagster Assets  <code>enrichment</code> <code>legislation</code> <code>sltrib</code></h2></span><div style='display: flex;flex: 1;flex-direction: row;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='SFPL-0' random-id='8b1a9388-2b48-4da7-02d1-ff88adcfea64'><marimo-dropdown data-initial-value='[]' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Asset&lt;/span&gt;&lt;/span&gt;&quot;' data-options='[&quot;ai_enriched_articles&quot;,&quot;sltrib_articles&quot;,&quot;sltrib_feed_xml&quot;,&quot;sltrib_full_content&quot;,&quot;ut_bills&quot;,&quot;ut_legislators&quot;]' data-allow-select-none='true' data-searchable='false' data-full-width='true'></marimo-dropdown></marimo-ui-element><marimo-ui-element object-id='SFPL-1' random-id='99c45f70-cd82-4cec-f938-eff4b34e75e6'><marimo-button data-initial-value='0' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Materialize&lt;/span&gt;&lt;/span&gt;&quot;' data-kind='&quot;success&quot;' data-disabled='false' data-full-width='false'></marimo-button></marimo-ui-element></div></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "2d0aad9e2b79112c5ca8252e77ddef9b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "8965c13aafb4b5072edce3bed817ef61",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "0eeedc93a2d7264c7a6e80b6d4cf4ecd",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
         }
       ],
       "console": []
